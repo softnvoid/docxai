@@ -7,3 +7,7 @@ __pycache__
 archive
 instruction.txt
 prompt.txt
+*.code-workspace
+tmp
+uv.lock
+notes

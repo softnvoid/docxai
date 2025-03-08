@@ -1,0 +1,13 @@
+[project]
+name = "docxai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "coolname>=2.2.0",
+    "openai>=1.65.4",
+    "pdf2docx>=0.5.8",
+    "python-docx>=1.1.2",
+    "requests>=2.32.3",
+]

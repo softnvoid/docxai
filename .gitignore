@@ -11,3 +11,4 @@ prompt.txt
 tmp
 uv.lock
 notes
+.ruff_cache

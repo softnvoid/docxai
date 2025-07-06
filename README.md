@@ -61,7 +61,7 @@ Currently, the script is configured to process a file named `test.docx`. You can
 **Run the script:**
 
 ```bash
-python main.py
+python docxai_process.py
 ```
 
 **Get the result.**
